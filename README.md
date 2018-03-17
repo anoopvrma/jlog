@@ -1,5 +1,5 @@
 # It is a logging framework in java
-# Tt is very common design problem for interviews.
+# It is very common design problem for interviews.
 
 Interviewer expect you to follow object oriented design principles.
 This is just for illustration purpose, should not be used in real applications.
