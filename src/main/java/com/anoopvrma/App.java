@@ -1,7 +1,7 @@
-package com.flipkart;
+package com.anoopvrma;
 
-import com.flipkart.logger.Logger;
-import com.flipkart.logger.LoggerFactory;
+import com.anoopvrma.logger.Logger;
+import com.anoopvrma.logger.LoggerFactory;
 
 /**
  * Hello world!

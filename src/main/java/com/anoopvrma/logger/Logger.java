@@ -1,4 +1,4 @@
-package com.flipkart.logger;
+package com.anoopvrma.logger;
 
 public interface Logger {
 	

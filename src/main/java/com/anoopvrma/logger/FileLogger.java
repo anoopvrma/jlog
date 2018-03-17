@@ -1,4 +1,4 @@
-package com.flipkart.logger;
+package com.anoopvrma.logger;
 
 import java.io.File;
 import java.io.IOException;
